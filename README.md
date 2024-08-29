@@ -19,7 +19,7 @@ Hi! 👋, I'm <i>Gildo Komba.</i>
    <li>🌱 I’m currently learnin </li>
 </ul>
 </pre>
-[![Stat](https://github-readme-stats.vercel.app/api/top-langs/?username=LucieLeBriquer&layout=compact&hide=roff&langs_count=8&show_icons=true&theme=vue-dark&hide_border=true)](https://github.com/LucieLeBriquer)
+[![Stat](https://github-readme-stats.vercel.app/api/top-langs/?username=gkomba&layout=compact&hide=roff&langs_count=8&show_icons=true&theme=vue-dark&hide_border=true)](https://github.com/gkomba)
 <p> Tech stack </p>
 <blockquote>
    <a href="https://skillicons.dev">
