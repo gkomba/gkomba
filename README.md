@@ -12,7 +12,8 @@
 <pre>
 Hi! 👋, I'm <i>Gildo Komba.</i>
 <ul>
-   <li>🌱 I'm programming since 2021. The first programming language I learned was C. I'm currently studying @42School in Luanda, Angola. Here I'm posting some of the projects I do during my curriculum.</li>
+   <li>🌱 I'm programming since 2021. The first programming language I learned was C. 
+          I'm currently studying @42School in Luanda, Angola. Here I'm posting some of the projects I do during my curriculum.</li>
 </ul>
 </pre>
 [![Stat](https://github-readme-stats.vercel.app/api/top-langs/?username=gkomba&layout=compact&hide=roff&langs_count=8&show_icons=true&theme=vue-dark&hide_border=true)](https://github.com/gkomba)
