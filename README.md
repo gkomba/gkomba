@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <pre>
-Hi! 👋, I'm <i>Jide.</i>
+Hi! 👋, I'm <i>Gildo Komba.</i>
 <ul>
-   <li>🌱 I'm learning Typescript and Node.js at the moment</li>
+   <li>🌱 I’m currently learnin </li>
 </ul>
    
 </pre>
