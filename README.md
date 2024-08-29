@@ -15,7 +15,9 @@ Hi! 👋, I'm <i>Gildo Komba.</i>
    <li>🌱 I’m currently learnin </li>
 </ul>
 </pre>
+<center>
 [![Stat](https://github-readme-stats.vercel.app/api/top-langs/?username=gkomba&layout=compact&hide=roff&langs_count=8&show_icons=true&theme=vue-dark&hide_border=true)](https://github.com/gkomba)
+   </center>
 <p> Tech stack </p>
 <blockquote>
    <a href="https://skillicons.dev">
