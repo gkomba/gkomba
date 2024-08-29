@@ -18,7 +18,6 @@ Hi! 👋, I'm <i>Gildo Komba.</i>
 <ul>
    <li>🌱 I’m currently learnin </li>
 </ul>
-   
 </pre>
 <p> Tech stack </p>
 <blockquote>
