@@ -10,7 +10,7 @@
 - ⚡ Fun fact: ...
 -->
 <pre>
-Hi! 👋, I'm <i>Gildo Komba.</i>
+## Hi! 👋, I'm <i>Gildo Komba.</i>
 Intra: <i>gkomba</i>
 <ul>
    <li>🌱 I'm programming since 2024. The first programming language I learned was C. 
