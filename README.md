@@ -21,5 +21,5 @@ Intra: <i>gkomba</i>
 <p> Tech stack </p>
 <blockquote>
    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c,vim,linux,bash,go,cpp,nodejs,arduino,mongodb" />
+      <img src="https://skillicons.dev/icons?i=c,vim,linux,bash,go,cpp,nodejs,arduino,mongodb,mqtt,nestjs,postgresql" />
 </blockquote>
