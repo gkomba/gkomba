@@ -13,9 +13,7 @@
 Hi! 👋, I'm <i>Gildo Komba.</i>
 Intra: <i>gkomba</i>
 <ul>
-   <li>🌱 I'm programming since 2024. The first programming language I learned was C. 
-   I'm currently studying at @42School in Luanda, Angola.
-   Here I'm posting some of the projects I do during my curriculum.</li>
+   <li>Code. Code. Code</li>
 </ul>
 </pre>
 <p> Tech stack </p>
