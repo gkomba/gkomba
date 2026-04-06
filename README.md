@@ -13,7 +13,7 @@
 Hi! 👋, I'm <i>Gildo Komba.</i>
 Intra: <i>gkomba</i>
 <ul>
-   <li>Code. Code. Code</li>
+Let's create something big.
 </ul>
 </pre>
 <p> Tech stack </p>
